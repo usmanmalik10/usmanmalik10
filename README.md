@@ -78,8 +78,8 @@
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [GitHub Profile](https://github.com/yourusername)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/theusmanmalik/)
+- **GitHub:** [GitHub Profile](https://github.com/usmanmalik10)
 - **Portfolio:** [Your Portfolio](#)
 
 ---
